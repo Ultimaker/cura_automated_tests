@@ -1,0 +1,4 @@
+# Compiled and generated things.
+build
+*.pyc
+__pycache__
